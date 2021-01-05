@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.myname{
+    color: rgb(0, 255, 55);
+}
+.half-width{
+    width: 33%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
